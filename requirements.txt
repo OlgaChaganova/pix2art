@@ -1,0 +1,10 @@
+torch
+numpy
+IPython
+tqdm
+torchvision
+matplotlib
+streamlit
+streamlit_drawable_canvas
+requests
+altair
