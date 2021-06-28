@@ -1,7 +1,7 @@
 # pix2art
  Implementation of Pix2Pix generative adversarial network to generate painting from sketch in style of Ayvazovsky or Rembrandt
  
- Try it: https://share.streamlit.io/olgachaganova/pix2art/main/streamlit_app/pix2art_streamlit.py
+ Try it: https://share.streamlit.io/olgachaganova/pix2art/main/pix2art_streamlit.py
 
 #### Examples on test set for Ayvazovsky:
 
