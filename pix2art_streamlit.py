@@ -6,8 +6,8 @@ from PIL import Image
 import requests
 import numpy as np
 
-from . import models
-from .utils import config
+import models
+from utils import config
 
 
 @st.cache
