@@ -6,13 +6,13 @@ from PIL import Image
 import requests
 import numpy as np
 
-import models
+from models.generator import Generator
 from utils import config
 
 
 @st.cache
 def load_model(style_type):
-    model = models.Generator().to(config.DEVICE)
+    model = Generator().to(config.DEVICE)
     if style_type == 'Ayvazovsky':
         PATH = config.PATH_AYVAZOVSKY
     else:
