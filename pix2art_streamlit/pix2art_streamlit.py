@@ -6,7 +6,7 @@ from PIL import Image
 import requests
 import numpy as np
 
-from .. import models
+from . import models
 from .utils import config
 
 
