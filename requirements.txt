@@ -4,7 +4,7 @@ IPython
 tqdm
 torchvision
 matplotlib
-streamlit
+streamlit==0.83.0
 streamlit_drawable_canvas
 requests
 altair
